@@ -1,0 +1,117 @@
+<html>
+<head>
+  <title>Práctica</title>
+  <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/41bcea2ae3.js"  ></script>
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+    <link rel="stylesheet" href="../Prácticas/css/main.css">
+</head>
+
+<body>
+<header>
+  <div class="parte_superior">
+    <div class="titulo"> Eclipses solares en la historia antigua 
+    </div>
+    <img src="../../img/LOGO INAOE 2012 blanco PNG.png" alt="INAOE" class="logoimg">
+    <img src="../../img/LOGO.png" alt="INAOE" class="logoimg">
+  </div>
+</header>
+
+<div class="container__menu">
+  <div class="menu">
+      <input type="checkbox" id="check__menu">
+      <label for="check__menu" id="label__check">
+          <i class="fas fa-bars icon__menu"></i>
+      </label>
+      <nav>
+          <ul>
+              <li><a href="https://asteroidesinaoe.github.io" id="selected"></a></li>
+              <li><a href="https://asteroidesinaoe.github.io/asteroides/">Asteroides</a></li>
+              <li><a href="https://asteroidesinaoe.github.io/fotometria/">Fotometría</a>
+                <ul>
+                  <li><a href="https://asteroidesinaoe.github.io/fotometria/mpo-canopus/">MPO Canopus</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/fotometria/fourier/">Análisis de Fourier</a></li>
+                </ul>
+              </li>
+              <li><a href="https://asteroidesinaoe.github.io/espectroscopia/">Espectroscopía</a></li>
+              <li><a href="https://asteroidesinaoe.github.io/infografias/">Infografías</a>
+                <ul>
+                  <li><a href="https://asteroidesinaoe.github.io/infografias/meteoritos-mexico/">Impactos en méxico</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/infografias/meteoritos-mundo/">Impactos en el mundo</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/infografias/acercamientos/">Acercamientos</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/infografias/biografias/">Biografías</a></li>
+                </ul>
+              </li>
+              <li><a href="https://asteroidesinaoe.github.io/riesgo_de_impacto/">Riesgo de impacto</a></li>
+              <li><a href="https://asteroidesinaoe.github.io/actividades/">Actividades</a>
+                <ul>
+                  <li><a href="https://asteroidesinaoe.github.io/actividades/curva-de-luz/">Curvaz de luz</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/actividades/orbitas/">Órbitas</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/actividades/taxonomia/">Taxonomía</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/actividades/nombres/">Nombres</a></li>
+                </ul>
+              </li>
+              <li><a href="https://asteroidesinaoe.github.io/glosario/">Glosario</a></li>
+              <li><a href="https://asteroidesinaoe.github.io/aprender-mas/">Aprender más</a>
+                <ul>
+                  <li><a href="https://asteroidesinaoe.github.io/aprender-mas/rayos-cosmicos/">Rayos cósmicos</a></li>
+                  <li><a href="https://asteroidesinaoe.github.io/aprender-mas/ccd/">CCD</a></li>
+                </ul>
+              </li>
+              <li><a href="https://asteroidesinaoe.github.io/contacto/">Contacto</a></li>
+          </ul>
+      </nav>
+  </div>
+</div>
+
+<div class="container2">
+  <div class="indice">
+    <h1 class="indice_titulo"><b>Contenido</b></h1>
+    <ul class="indice_lista">
+      <li><a class="contenido" href="#indice1" target="_top">Contexto</a></li>
+      <li><a class="contenido" href="#indice2" target="_top">Interpretaciones</a>
+        <li><a class="contenido" href="#indice2" target="_top">COnclusiones </a>
+        <ul class="indice_lista">
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+
+  <div class="cBrillo">
+    <div class="texto">
+      <font color="white">
+      <div class="capa"><a name="indice1"></a></div>
+      <h2>Eclipses solares en la historia antigua </h2>
+      <p style="text-align: justify;">
+        
+      <p> Hoy en día el conocimiento que tenemos acerca de los eclipses es mucho más basto y preciso de lo que se sabía en las primeras civilizaciones humanas. Si bien su predicción y registro no son actividades ni conocimiento reciente, podemos ver que, mientras más nos adentramos en el pasado, las creencias y supersticiones tienen más fuerza sobre el imaginario colectivo. En la época antigua estos eventos astronómicos estaban ligados fuertemente a su mitología.
+       <p> Conforme revisemos las diferentes culturas, encontraremos que los eclipses se interpretaban, en su mayoría, de forma negativa, ya sea como un mal presagio o un momento de vulnerabilidad, pues la misma palabra “eclipse” proviene del griego ékleipsis que significa “abandono”. Es probable que, su mala imagen o su percepción “siniestra”, fuera consecuencia del desconocimiento de sus causas. *Además de los daños a la salud provocados por ver directamente éste fenómeno.
+       <p> Dentro de todas las interpretaciones que podemos encontrar, la mayoría consiste en el ataque al Sol por parte de algún ente. Éste puede ser algún demonio o deidad, pero lo más común es que se le atribuyera una forma animal, debido a que, dependiendo de la región en la que se localizaban y la fauna que ahí habitaba, sus características eran causa de admiración o de temor.
+       <p> Como ejemplo de esta interpretación tenemos a la antigua cultura china en la que, a pesar de ser un animal mitológico, el causante de la ausencia del gran astro se le atribuía a un dragón. De forma similar, en las culturas de Medio Oriente se pensaba que era a causa de una rana o sapo. También tenemos el caso de las culturas celtas, donde la gran sombra la causaban gigantes lobos*. Éste no era el caso de los griegos ni de las primeras culturas mesopotámicas en las que un eclipse era visto como la manifestación de la ira de los dioses, aunque posteriormente mejorarían sus observaciones y conocimiento de los astros.
+       <p> En algunas otras culturas, aunque no se atribuía a un animal, sí se pensaba que era debido al ataque o la muerte del Sol, siendo este el caso de los mapuches, que consideraban los eclipses como una muerte temporal. Similarmente, los hindúes creían que un monstruo consumía al Sol, sin embargo, éste podía escapar debido a su vientre abierto. Los mayas y los aztecas poseían mitos equivalentes, en los cuales, el Sol era “mordido” por demonios estelares o en una confrontación con la Luna.
+       <p> Cabe mencionar que ciertas civilizaciones se dieron cuenta de la relación entre la Luna y el Sol durante este fascinante evento, tal es el caso de los inuit que habitaban la tundra ártica de Norteamérica, quienes al conocer dicha relación, lo consideraban una pelea entre ambos, al igual que los muisca que veían al eclipse como una manifestación de ira, pero de la Luna y el Sol como deidades en sí.
+       <p> Podemos notar que son muy pocas las culturas que percibían a los eclipses de buena manera, tal es el caso de los egipcios que son un punto medio, ya que creían que un eclipse era la muerte y resurgir del Sol. Esto podía interpretarse como un nuevo comienzo. Solamente las culturas del oeste de África y los Incas percibían el cruce del Sol y la Luna como un acto de amor que debía ser motivo de alegría.
+       <p>Indagando acerca de las diferentes interpretaciones y fijándonos en tiempos actuales, podemos notar que la ausencia de una figura tan importante como el Sol,  sería una fuente de alarma e incertidumbre, pues en parte es gracias a él que existe la vida sobre la Tierra.        <p>Al entender que un eclipse es una alineación Sol-Luna-Tierra podemos descartar cualquier otra interpretación, y al conocer más sobre el tema podemos cuidarnos de los peligros que conlleva mirar directamente este fenómeno y permitirnos admirar esta bella casualidad del Universo.
+          <center>
+      
+            <img src="../../img/didymos.jpg" class="imagen" />
+      </center>
+      
+        
+    </font>
+  </div>
+  </div>
+</div>
+
+<footer> 
+  <div class="fter">
+    2022 - Página diseñada y desarrollada por el grupo de trabajo BUAP-INAOE del programa:
+    Asteroides Cercanos a la Tierra (NEAs)
+  </div>
+</footer>
+</body>
+</html>
